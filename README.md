@@ -1,6 +1,6 @@
 # DevTrackr 📚
 
-Aplicação web simples de organização de estudos com sistema de gamificação que ajuda a manter a motivação e acompanhar o progresso.
+Aplicação web simples feita por mim para organização de estudos com sistema de gamificação que ajuda a manter a motivação e acompanhar o progresso.
 
 ## 🚀 Funcionalidades
 - Cadastro de tarefas com descrição e nível de dificuldade
