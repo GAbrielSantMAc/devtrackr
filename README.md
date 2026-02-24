@@ -17,7 +17,6 @@ Aplicação web simples feita por mim para organização de estudos com sistema 
 ## 🌍 Deploy
 Você pode acessar o projeto online pelo GitHub Pages:  
 https://seuusuario.github.io/devtrackr/  
-*(Substitua `seuusuario` pelo seu nome de usuário no GitHub)*
 
 ## 📌 Objetivo do Projeto
 Este projeto foi criado para praticar manipulação dinâmica do DOM, lógica de programação e gamificação aplicada em uma ferramenta de produtividade simples.
